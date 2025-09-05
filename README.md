@@ -10,11 +10,8 @@ Email Me 👉 ✉️ **harshvardhanmishra426@gmail.com** For Collaboration/Proje
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** harshvardhanmishra426@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me.
-- My Linkedin id: https://www.linkedin.com/in/harshvardhan-mishra-2b0b89287/ ###
+- My Linkedin id: https://www.linkedin.com/in/harshvardhan-mishra-2b0b89287/ 
 
-
-
-###
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshvardhanmishra32&theme=radical&no-frame=false&no-bg=true&margin-w=4)
